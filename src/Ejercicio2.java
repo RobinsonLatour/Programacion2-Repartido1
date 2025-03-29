@@ -13,5 +13,7 @@ public class Ejercicio2 {
 
         System.out.println("El resultado de la suma es: " + (num1 + num2));
 
+        leer.close();
+
     }
 }

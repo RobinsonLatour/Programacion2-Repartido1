@@ -13,5 +13,7 @@ public class Ejercicio3 {
 
         System.out.println("Su edad es: " + (actual - nacimiento) + " años");
 
+        leer.close();
+
     }
 }

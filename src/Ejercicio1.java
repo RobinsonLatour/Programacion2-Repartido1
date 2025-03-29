@@ -8,7 +8,9 @@ public class Ejercicio1 {
         System.out.println("Ingrese su nombre: ");
         String nombre = leer.nextLine();
 
-        System.out.println("Bienvenido al sistema " + nombre);
+        System.out.println("Bienvenido/a al sistema, " + nombre);
+
+        leer.close();
 
     }
 }

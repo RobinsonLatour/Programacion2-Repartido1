@@ -13,5 +13,7 @@ public class Ejercicio4 {
 
         System.out.println("El área del rectangulo es de: " + (base * altura) + " metros cuadrados");
 
+        leer.close();
+
     }
 }
